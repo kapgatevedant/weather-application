@@ -1,6 +1,5 @@
 # weather-application
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7246533331893268481?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 *I have created this simple project as part of my first task under CodeClause Internship*
 
 This is the code for a weather apllication project.
